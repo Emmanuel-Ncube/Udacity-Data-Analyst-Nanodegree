@@ -5,15 +5,11 @@
 </p>
 <h3 align="center"><a href='https://www.udacity.com/course/data-analyst-nanodegree--nd002'> Udacity Data Analyst Nanodegree </a></h3>
 
-## About <a name="about"></a> 
-Hi, I'm Emmanuel! I hold a Master of Science (M.S.) degree in Accounting & Finance from National University of Science & Technology. I have 10 years of experience in the field of education, where I held roles such as  Economics and Accounting senior teacher. I am currently transitioning to Data Analytics.  l completed the Google Data Analytics Proffessional Certificate in 2022.l am currently completing Udacity Data Analyst Nanodegree. Looking for a Data Analyst role.
-
 <br>
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
 
 ## Table of contents
-* [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	 + [Project 1 - Investigate A Dataset](#investigate)
  	+ [Project 2 - Wrangle and Analyze Data](#wrangle)

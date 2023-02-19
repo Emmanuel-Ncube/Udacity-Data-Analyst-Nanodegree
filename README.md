@@ -44,7 +44,7 @@ The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc.
 **Goal:** Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. 
 The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
 
-### Project 3 - Communicate Data  <a name="visualization"></a> 
+### Project 3 - Communicate Data Findings  <a name="visualization"></a> 
 
 This [ProsperLoan Dataset](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)
 contains 113,937 loans with 81 variables on each loan, including loan amount, prosper ratings, estimated loss, prosper and credit scores
